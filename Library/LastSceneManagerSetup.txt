@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/360 Motion Graphic Test 3/Scenes/IntroScene1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
