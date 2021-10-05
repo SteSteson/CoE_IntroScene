@@ -21,9 +21,9 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: das test 2
-  m_Shader: {fileID: -6465566751694194690, guid: 27a8bbd52b8c38147973eaff42b1b45e,
+  m_Shader: {fileID: -6465566751694194690, guid: 93bbf29acb3e62844a529dd50a9ad7c9,
     type: 3}
-  m_ShaderKeywords: _METALLICSPECGLOSSMAP _NORMALMAP
+  m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -34,11 +34,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_304A360:
-        m_Texture: {fileID: 2800000, guid: cc1a1da1390d477419b338924b6cb09f, type: 3}
+        m_Texture: {fileID: 2800000, guid: a1880cbbae7625545b2978982882aa2a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_4DB70427:
-        m_Texture: {fileID: 2800000, guid: 3c1578a19f4d52b4c87295f1477a5e3f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2abeebefe52f7724d96f823ccca65214, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_D8E99EB2:
@@ -62,7 +62,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: cc1a1da1390d477419b338924b6cb09f, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -78,7 +78,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_4F7E5CC_Texture_1:
-        m_Texture: {fileID: 2800000, guid: fcabffd57a8d737448ad0269a9d3092d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4a5e13dee5fbaac4eacf2a9acdacc721, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_D323B616_Texture_1:
@@ -86,7 +86,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_ED3C0E67_Texture_1:
-        m_Texture: {fileID: 2800000, guid: ab507ff7ff37d954da98b07bf0bb152e, type: 3}
+        m_Texture: {fileID: 2800000, guid: b0bb767d608f2674e8659e2c26c2013f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
